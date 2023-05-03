@@ -8,11 +8,7 @@
   responsive user interfaces.
 </h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=enzocosson&label=Profile%20views&color=0e75b6&style=flat"
-  />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzocosson&label=Profile%20views&color=0e75b6&style=flat" alt="enzocosson" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front-End</h4>
