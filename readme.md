@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo Cosson</h1>
-<h2>Front-End developer</h2>
+<h2>Full-Stack developer</h2>
 <h3 align="justify">
   I am passionate about creating interactive and aesthetic user interfaces that
   aesthetic user interfaces that enhance the user experience. I have a strong
